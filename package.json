@@ -1,0 +1,23 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/woonzf/odin-testing-practice.git"
+  },
+  "author": "woonzf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woonzf/odin-testing-practice/issues"
+  },
+  "homepage": "https://github.com/woonzf/odin-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
